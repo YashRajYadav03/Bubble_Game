@@ -61,6 +61,8 @@ body,html{
     height: calc(100% - 100px);
     padding: 20px;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     
 }
 .bubble{
